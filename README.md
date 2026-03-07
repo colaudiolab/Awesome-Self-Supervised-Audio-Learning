@@ -21,3 +21,13 @@ National University of Defense Technology(NUDT)
 ## Abstract
 This survey provides a comprehensive and systematic review of self-supervised learning (SSL) in audio signal processing, tracing its evolution from early heuristic-based pretext tasks to the current era of Native Large Audio Language Models (LALMs) and omni-modal foundation models. We propose a multidimensional taxonomy that categorizes SSL methods into five dominant paradigms: early auxiliary tasks, contrastive discrimination, generative reconstruction, discrete semantic prediction, and multimodal alignment. Unlike previous reviews, this paper explicitly analyzes the role of architectural inductive biases—ranging from the locality of CNNs to the global context modeling of Transformers and the linear-time efficiency of modern State Space Models (SSMs) like Mamba.
 Furthermore, we evaluate the impact of SSL across diverse domains, including next-generation speech processing, environmental sound analysis, music information retrieval (MIR), and healthcare bioacoustics. A significant focus is placed on recent breakthroughs, such as Neural Codec Language Models (NCLMs), Flow Matching paradigms (e.g., F5-TTS), and the integration of deep reasoning mechanisms through post-training techniques like Group Relative Policy Optimization (GRPO). We also provide an exhaustive overview of standardized benchmark suites (e.g., SUPERB, HEAR, AudioBench) and formal mathematical definitions of core evaluation metrics. Finally, we discuss the ``perceptual bottleneck'' and security vulnerabilities as primary challenges, and outline future trends toward physics-informed, 4D audio-visual intelligence and unified end-to-end omni-modal reasoning.
+
+## 📢 News!!!
+
+📌 We are actively tracking the latest research and welcome contributions to our repository and survey paper. If your studies are relevant, please feel free to contact us.
+
+📰 2026-xx-xx: Our repository now features a curated list of representative self-supervised audio learning papers published up to Jan 1, 2026.
+
+📰 2026-xx-xx: Our survey paper has been uploaded to ArXiv.
+
+📰 2026-03-20: Our survey paper has been submitted to TPAMI 2026.
