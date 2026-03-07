@@ -39,3 +39,51 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 ```
 
 ```
+
+
+## Table of contents
+- [Papers](#papers)
+  - <details>
+    <summary>Training-Based</summary>
+    
+    - [Training-Based: Domain-Specific Editing with Weak Supervision](#training-based-domain-specific-editing-with-weak-supervision)
+    - [Training-Based: Reference and Attribute Guidance via Self-Supervision](#training-based-reference-and-attribute-guidance-via-self-supervision)
+    - [Training-Based: Instructional Editing via Full Supervision](#training-based-instructional-editing-via-full-supervision)
+    - [Training-Based: Pseudo-Target Retrieval with Weak Supervision](#training-based-pseudo-target-retrieval-with-weak-supervision)
+    </details>
+  - <details>
+    <summary>Testing-Time Finetuning</summary>
+    
+    - [Testing-Time Finetuning: Denosing Model Finetuning](#testing-time-finetuning-denosing-model-finetuning)
+    - [Testing-Time Finetuning: Embeddings Finetuning](#testing-time-finetuning-embeddings-finetuning)
+    - [Testing-Time Finetuning: Guidance with Hypernetworks](#testing-time-finetuning-guidance-with-hypernetworks)
+    - [Testing-Time Finetuning: Latent Variable Optimization](#testing-time-finetuning-latent-variable-optimization)
+    - [Testing-Time Finetuning: Hybrid Finetuning](#testing-time-finetuning-hybrid-finetuning)
+    </details>
+  - <details>
+    <summary>Training and Finetuning Free</summary>
+    
+    - [Training and Finetuning Free: Input Text Refinement](#training-and-finetuning-free-input-text-refinement)
+    - [Training and Finetuning Free: Inversion/Sampling Modification](#training-and-finetuning-free-inversionsampling-modification)
+    - [Training and Finetuning Free: Attention Modification](#training-and-finetuning-free-attention-modification)
+    - [Training and Finetuning Free: Mask Guidance](#training-and-finetuning-free-mask-guidance)
+    - [Training and Finetuning Free: Multi-Noise Redirection](#training-and-finetuning-free-multi-noise-redirection)
+    </details>
+- [Benchmark EditEval_v1](#benchmark-editeval_v1)
+- [Template of Computing LMM Score](EditEval_v1/Metric/LMM_Score_GPT4V_Prompt_Template.md)
+- [Leaderboard](#leaderboard)
+- [Star History](#star-history)
+
+    
+# Papers
+
+
+
+
+
+
+
+
+# Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=colaudiolab/Awesome-Self-Supervised-Audio-Learning&type=Date)](https://star-history.com/#colaudiolab/Awesome-Self-Supervised-Audio-Learning&Date)
