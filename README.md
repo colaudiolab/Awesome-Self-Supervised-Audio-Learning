@@ -6,13 +6,13 @@
   <img src="./media/title.png" alt="image" style="width:1000px;">
 </p>
 
-[![Awesome](media/badge.svg)](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods) 
+[![Awesome](media/badge.svg)](https://github.com/colaudiolab/Awesome-Self-Supervised-Audio-Learning) 
 [![License: MIT](media/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Made With Love](media/Made-With-Love-red.svg)](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods)
-[![arXiv](media/arXiv-Paper-red.svg)](https://arxiv.org/abs/2402.17525) 
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=SiatMMLab.Awesome-Diffusion-Model-Based-Image-Editing-Methods)](https://visitor-badge.laobi.icu/badge?page_id=SiatMMLab.Awesome-Diffusion-Model-Based-Image-Editing-Methods)
+[![Made With Love](media/Made-With-Love-red.svg)](https://github.com/colaudiolab/Awesome-Self-Supervised-Audio-Learning)
+[![arXiv](media/arXiv-Paper-red.svg)](xxx) 
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=colaudiolab.Awesome-Self-Supervised-Audio-Learning)](https://visitor-badge.laobi.icu/badge?page_id=colaudiolab.Awesome-Self-Supervised-Audio-Learning)
 
-The repository is based on our survey [A Systematic Review on Self-Supervised Learning for Audio Signal: Taxonomy, Applications and Future Trends]() (Submit to TPAMI 2026).
+The repository is based on our survey [A Systematic Review on Self-Supervised Learning for Audio Signal: Taxonomy, Applications and Future Trends](xxx) (Submit to TPAMI 2026).
 
 xxx, Kele Xu
 
