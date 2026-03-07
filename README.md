@@ -46,31 +46,31 @@ If you find this work helpful in your research, welcome to cite the paper and gi
   - <details>
     <summary>Contrastive Learning</summary>
     
-    - [Training-Based: Domain-Specific Editing with Weak Supervision](#training-based-domain-specific-editing-with-weak-supervision)
+    - [xxx](#xxx)
     - 
     </details>
   - <details>
     <summary>Generative and Reconstruction</summary>
     
-    - [Testing-Time Finetuning: Denosing Model Finetuning](#testing-time-finetuning-denosing-model-finetuning)
+    - [xxx](#xxx)
     - 
     </details>
   - <details>
     <summary>Discrete Token Prediction</summary>
     
-    - [Testing-Time Finetuning: Denosing Model Finetuning](#testing-time-finetuning-denosing-model-finetuning)
+    - [xxx](#xxx)
     - 
     </details>
   - <details>
     <summary>Teacher-Student Distillation and Unified Learning</summary>
     
-    - [Testing-Time Finetuning: Denosing Model Finetuning](#testing-time-finetuning-denosing-model-finetuning)
+    - [xxx](#xxx)
     - 
     </details>
   - <details>
     <summary>Multimodal Alignment</summary>
     
-    - [Training and Finetuning Free: Input Text Refinement](#training-and-finetuning-free-input-text-refinement)
+    - [xxx](#xxx)
     - 
     </details>
 - [Datasets](#datasets)
