@@ -26,7 +26,7 @@ Furthermore, we evaluate the impact of SSL across diverse domains, including nex
 
 📌 We are actively tracking the latest research and welcome contributions to our repository and survey paper. If your studies are relevant, please feel free to contact us.
 
-📰 2026-xx-xx: Our repository now features a curated list of representative self-supervised audio learning papers published up to Jan 1, 2026.
+[//]: # (📰 2026-xx-xx: Our repository now features a curated list of representative self-supervised audio learning papers published up to Jan 1, 2026.)
 
 📰 2026-xx-xx: Our survey paper has been uploaded to ArXiv.
 
