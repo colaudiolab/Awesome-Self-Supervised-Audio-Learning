@@ -46,38 +46,32 @@ If you find this work helpful in your research, welcome to cite the paper and gi
   - <details>
     <summary>Early Auxiliary Tasks</summary>
     
-    - [xxx](#xxx)
-    - 
+    
     </details>
   - <details>
     <summary>Contrastive Learning</summary>
     
-    - [xxx](#xxx)
-    - 
+    
     </details>
   - <details>
     <summary>Generative and Reconstruction</summary>
     
-    - [xxx](#xxx)
-    - 
+    
     </details>
   - <details>
     <summary>Discrete Token Prediction</summary>
     
-    - [xxx](#xxx)
-    - 
+    
     </details>
   - <details>
     <summary>Teacher-Student Distillation and Unified Learning</summary>
     
-    - [xxx](#xxx)
-    - 
+    
     </details>
   - <details>
     <summary>Multimodal Alignment</summary>
     
-    - [xxx](#xxx)
-    - 
+    
     </details>
 - [Benchmarking, Datasets, and Evaluation Protocols](#benchmarking-datasets-and-evaluation-protocols)
 - [Star History](#star-history)
