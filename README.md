@@ -79,7 +79,7 @@ If you find this work helpful in your research, welcome to cite the paper and gi
     - [xxx](#xxx)
     - 
     </details>
-- [Benchmark](#benchmark)
+- [Benchmarking, Datasets, and Evaluation Protocols](#benchmarking-datasets-and-evaluation-protocols)
 - [Star History](#star-history)
 
     
@@ -128,8 +128,41 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 | [CLAP: Learning Audio Concepts From Natural Language Supervision](https://arxiv.org/abs/2206.04769) | ICASSP 2023 | 2022.06 |
 
 
-# Benchmark
+# Benchmarking, Datasets, and Evaluation Protocols
 
+## 1. Speech-centric Benchmarks
+| Title | Publication | Date |
+| :--- | :--- | :--- |
+| [SUPERB: Speech processing Universal PERformance Benchmark](https://arxiv.org/abs/2105.01051) | Interspeech 2021 | 2021.05 |
+| [SUPERB-SG: Enhanced Speech processing Universal PERformance Benchmark](https://arxiv.org/abs/2203.04412) | Interspeech 2022 | 2022.03 |
+| [ZeroSpeech 2020: Investigating the Role of Discrete Units in Zero-resource Speech Synthesis](https://arxiv.org/abs/2010.11564) | Interspeech 2020 | 2020.10 |
+| [LeBenchmark: A Reproducible Framework for Assessing SSL from Speech](https://arxiv.org/abs/2104.09252) | Interspeech 2021 | 2021.04 |
+| [Libri-Light: A Benchmark for ASR with Limited Resources](https://arxiv.org/abs/1912.07875) | ICASSP 2020 | 2019.12 |
+
+## 2. Environmental and General Audio
+| Title | Publication | Date |
+| :--- | :--- | :--- |
+| [HEAR 2021: Holistic Evaluation of Audio Representations](https://arxiv.org/abs/2203.03022) | PMLR 2022 | 2022.03 |
+| [AudioSet: An ontology and dataset for ILSVRC-like labeled video events](https://ieeexplore.ieee.org/document/7952261) | ICASSP 2017 | 2017.03 |
+| [FSD50K: An Open Dataset of Everyday Sounds](https://arxiv.org/abs/2010.00475) | IEEE/ACM TASLP 2021 | 2020.10 |
+| [DCASE 2017 Challenge Setup: Tasks, Datasets and Baseline System](https://arxiv.org/abs/1709.03159) | DCASE Workshop 2017 | 2017.09 |
+| [Towards Learning to Solve Non-Semantic Speech Tasks with Reviews](https://arxiv.org/abs/2002.01322) | Interspeech 2020 | 2020.02 |
+
+## 3. Audio-Language (Multimodal)
+| Title | Publication | Date |
+| :--- | :--- | :--- |
+| [AudioCaps: Generating Captions for Audios in the Wild](https://arxiv.org/abs/1905.13448) | NAACL-HLT 2019 | 2019.05 |
+| [Clotho: An Audio Captioning Dataset](https://arxiv.org/abs/1910.09387) | ICASSP 2020 | 2019.10 |
+| [WavCaps: A ChatGPT-Assisted Weakly-Labelled Audio Captioning Dataset](https://arxiv.org/abs/2303.17395) | arXiv 2023 | 2023.03 |
+
+## 4. Audio-Visual and Audio-LLM
+| Title | Publication | Date |
+| :--- | :--- | :--- |
+| [AVE: Audio-Visual Event Localization in Real-world Videos](https://arxiv.org/abs/1807.00439) | ECCV 2018 | 2018.07 |
+| [VGGSound: A Large-scale Audio-Visual Dataset](https://arxiv.org/abs/2004.14368) | ICASSP 2020 | 2020.04 |
+| [AVSBench: Object-level Audio-Visual Segmentation with Grounding](https://arxiv.org/abs/2208.03578) | CVPR 2023 | 2022.08 |
+| [AVQA: Learning to Answer Questions in Dynamic Audio-Visual Scenes](https://arxiv.org/abs/2204.04368) | CVPR 2022 | 2022.04 |
+| [AudioBench: A Universal Benchmark for Audio Large Language Models](https://arxiv.org/abs/2406.13110) | arXiv 2024 | 2024.06 |
 
 # Star History
 
