@@ -44,6 +44,12 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 ## Table of contents
 - [Papers](#papers)
   - <details>
+    <summary>Early Auxiliary Tasks</summary>
+    
+    - [xxx](#xxx)
+    - 
+    </details>
+  - <details>
     <summary>Contrastive Learning</summary>
     
     - [xxx](#xxx)
@@ -73,17 +79,53 @@ If you find this work helpful in your research, welcome to cite the paper and gi
     - [xxx](#xxx)
     - 
     </details>
-- [Datasets](#datasets)
 - [Benchmark](#benchmark)
 - [Star History](#star-history)
 
     
 # Papers
 
+## 1. Early Auxiliary Tasks
+| Title | Publication | Date |
+| :--- | :--- | :--- |
+| [Audio2vec: Self-supervised features for medium-resource speech recognition](https://arxiv.org/abs/2010.12715) | IEEE SPL 2020 | 2020.10 |
+| [Self-Supervised Learning of Audio Representations From Network-Selected Audio-Visual Segments](https://arxiv.org/abs/2107.03123) | IEEE SPL 2021 | 2021.07 |
+| [PASE: Learning Problem-agnostic Speech Representations from Multiple Self-supervised Tasks](https://arxiv.org/abs/1904.03416) | Interspeech 2019 | 2019.04 |
+| [PASE+: Multi-task self-supervised learning for robust speech recognition](https://arxiv.org/abs/2001.09239) | ICASSP 2020 | 2020.01 |
+| [Contextual Attention for Audio Inpainting](https://arxiv.org/abs/1910.09130) | IEEE TASLP 2019 | 2019.10 |
+| [L3-Net: Look, Listen and Learn](https://arxiv.org/abs/1705.08168) | ICCV 2017 | 2017.05 |
 
+## 2. Contrastive Learning
+| Title | Publication | Date |
+| :--- | :--- | :--- |
+| [COLA: Contrastive Learning of General-Purpose Audio Representations](https://arxiv.org/abs/2010.10915) | ICASSP 2021 | 2021.05 |
+| [BYOL-A: Self-Supervised Learning for General-Purpose Audio Representation](https://arxiv.org/abs/2103.04551) | IJCNN 2021 | 2021.03 |
+| [Audio Barlow Twins: Self-Supervised Audio Representation Learning](https://arxiv.org/abs/2209.15344) | ICASSP 2023 | 2023.09 |
+| [wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations](https://arxiv.org/abs/2006.11477) | NeurIPS 2020 | 2020.12 |
 
+## 3. Generative and Reconstruction
+| Title | Publication | Date |
+| :--- | :--- | :--- |
+| [APC: An Unsupervised Autoregressive Model for Speech Representation Learning](https://arxiv.org/abs/1904.03240) | Interspeech 2019 | 2019.09 |
+| [AALBERT: A Lite BERT for Self-Supervised Learning of Audio Representation](https://arxiv.org/abs/2105.05051) | IEEE SLT 2021 | 2021.01 |
+| [Audio-MAE: Masked Autoencoders that Listen](https://arxiv.org/abs/2207.06405) | NeurIPS 2022 | 2022.07 |
+| [SSAST: Self-Supervised Audio Spectrogram Transformer](https://arxiv.org/abs/2110.09784) | AAAI 2022 | 2021.10 |
+| [MaskSpec: Masked Spectrogram Prediction for Self-Supervised Audio Pre-Training](https://arxiv.org/abs/2304.10300) | ICASSP 2023 | 2023.04 |
 
-# Datasets
+## 4. Discrete Token Prediction
+| Title | Publication | Date |
+| :--- | :--- | :--- |
+| [HuBERT: Masked Prediction of Hidden Units for Speech Representation Learning](https://arxiv.org/abs/2106.07447) | IEEE TASLP 2021 | 2021.10 |
+| [W2v-BERT: Combining Contrastive Learning and MLM for Speech Pre-Training](https://arxiv.org/abs/2108.06209) | ASRU 2021 | 2021.08 |
+| [WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech Processing](https://arxiv.org/abs/2110.13900) | IEEE JSTSP 2022 | 2021.10 |
+| [BEATs: Audio Pre-Training with Acoustic Tokenizers](https://arxiv.org/abs/2212.09058) | ICML 2023 | 2022.12 |
+
+## 5. Multimodal Alignment
+| Title | Publication | Date |
+| :--- | :--- | :--- |
+| [SoundNet: Learning Sound Representations from Unlabeled Video](https://arxiv.org/abs/1610.09001) | NeurIPS 2016 | 2016.10 |
+| [Robust Audio-Visual Instance Discrimination (Robust-xID)](https://arxiv.org/abs/2008.01258) | CVPR 2021 | 2020.08 |
+| [CLAP: Learning Audio Concepts From Natural Language Supervision](https://arxiv.org/abs/2206.04769) | ICASSP 2023 | 2022.06 |
 
 
 # Benchmark
