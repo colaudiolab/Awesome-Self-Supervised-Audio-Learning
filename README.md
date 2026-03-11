@@ -151,14 +151,27 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 ## 4. Discrete Token Prediction
 | Title | Publication | Date |
 | :--- | :--- | :--- |
-| [HuBERT: Masked Prediction of Hidden Units for Speech Representation Learning](https://arxiv.org/abs/2106.07447) | IEEE TASLP 2021 | 2021.10 |
-| [W2v-BERT: Combining Contrastive Learning and MLM for Speech Pre-Training](https://arxiv.org/abs/2108.06209) | ASRU 2021 | 2021.08 |
-| [WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech Processing](https://arxiv.org/abs/2110.13900) | IEEE JSTSP 2022 | 2021.10 |
+| [HuBERT: Self‐Supervised Speech Representation Learning by Masked Prediction of Hidden Units](https://arxiv.org/abs/2106.07447) | TASLP 2021 | 2021.06 |
+| [W2v-BERT: Combining Contrastive Learning and Masked Language Modeling for Self-Supervised Speech Pre-Training](https://arxiv.org/abs/2108.06209) | ASRU 2021 | 2021.08 |
+| [WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech Processing](https://arxiv.org/abs/2110.13900) | IEEE JSTSP 2022 | 2021.08 |
+| [Self-supervised Learning with Random-projection Quantizer for Speech Recognition](https://arxiv.org/abs/2202.01855) | ICML 2022 | 2022.02 |
+| [AudioLM: a Language Modeling Approach to Audio Generation](https://arxiv.org/abs/2209.03143) | TASLP 2023 | 2022.09 |
 | [BEATs: Audio Pre-Training with Acoustic Tokenizers](https://arxiv.org/abs/2212.09058) | ICML 2023 | 2022.12 |
+| [Seed-TTS: A Family of High-Quality Versatile Speech Generation Models](https://arxiv.org/abs/2406.02430) | arXiv 2024 | 2024.06 |
+| [VALL-E 2: Neural Codec Language Models are Human Parity Zero-Shot Text to Speech Synthesizers](https://arxiv.org/abs/2406.05370) | arXiv 2024 | 2024.06 |
+| [Samba-ASR: State-Of-The-Art Speech Recognition Leveraging Structured State-Space Models](https://arxiv.org/abs/2501.02832) | arXiv 2025 | 2025.01 |
+| [MIM-Refiner: A Contrastive Learning Boost from Intermediate Pre-Trained Representations](https://arxiv.org/abs/2402.10093) | ICLR 2025 | 2025.02 |
 
 ## 5. Teacher-Student Distillation and Unified Learning
 | Title | Publication | Date |
 | :--- | :--- | :--- |
+| []() |  |  |
+| []() |  |  |
+| []() |  |  |
+| []() |  |  |
+| []() |  |  |
+| []() |  |  |
+| []() |  |  |
 
 
 ## 6. Multimodal Alignment
@@ -167,6 +180,12 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 | [SoundNet: Learning Sound Representations from Unlabeled Video](https://arxiv.org/abs/1610.09001) | NeurIPS 2016 | 2016.10 |
 | [Robust Audio-Visual Instance Discrimination (Robust-xID)](https://arxiv.org/abs/2008.01258) | CVPR 2021 | 2020.08 |
 | [CLAP: Learning Audio Concepts From Natural Language Supervision](https://arxiv.org/abs/2206.04769) | ICASSP 2023 | 2022.06 |
+| []() |  |  |
+| []() |  |  |
+| []() |  |  |
+| []() |  |  |
+| []() |  |  |
+| []() |  |  |
 
 
 # Benchmarking, Datasets, and Evaluation Protocols
