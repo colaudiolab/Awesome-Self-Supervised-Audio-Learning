@@ -136,11 +136,17 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 ## 3. Generative and Reconstruction
 | Title | Publication | Date |
 | :--- | :--- | :--- |
-| [APC: An Unsupervised Autoregressive Model for Speech Representation Learning](https://arxiv.org/abs/1904.03240) | Interspeech 2019 | 2019.09 |
-| [AALBERT: A Lite BERT for Self-Supervised Learning of Audio Representation](https://arxiv.org/abs/2105.05051) | IEEE SLT 2021 | 2021.01 |
-| [Audio-MAE: Masked Autoencoders that Listen](https://arxiv.org/abs/2207.06405) | NeurIPS 2022 | 2022.07 |
-| [SSAST: Self-Supervised Audio Spectrogram Transformer](https://arxiv.org/abs/2110.09784) | AAAI 2022 | 2021.10 |
-| [MaskSpec: Masked Spectrogram Prediction for Self-Supervised Audio Pre-Training](https://arxiv.org/abs/2304.10300) | ICASSP 2023 | 2023.04 |
+| [APC: An Unsupervised Autoregressive Model for Speech Representation Learning](https://arxiv.org/abs/1904.03240) | Interspeech 2019 | 2019.04 |
+| [Mockingjay: Unsupervised Speech Representation Learning with Deep Bidirectional Transformer Encoders](https://arxiv.org/abs/1910.12638) | ICASSP 2020 | 2020.02 | 
+| [Audio ALBERT: A Lite BERT for Self-supervised Learning of Audio Representation](https://arxiv.org/abs/2005.08575) | IEEE SLT Workshop 2021 | 2021.05 |
+| [TERA: Self-Supervised Learning of Transformer Encoder Representation for Speech](https://ieeexplore.ieee.org/document/9478264) | TASLP 2021 | 2021.07 |
+| [SSAST: Self-Supervised Audio Spectrogram Transformer](https://arxiv.org/abs/2110.09784) | AAAI 2022 | 2022.02 |
+| [MAE-AST: Masked Autoencoding Audio Spectrogram Transformer](https://arxiv.org/abs/2203.16691) | Interspeech 2022 | 2022.03 |
+| [Masked Spectrogram Prediction For Self-Supervised Audio Pre-Training](https://arxiv.org/abs/2204.12768) | ICASSP 2023 | 2022.04 |
+| [Masked Autoencoders that Listen](https://arxiv.org/abs/2207.06405) | NeurIPS 2022 | 2022.07 |
+| [NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models](https://arxiv.org/abs/2403.03100) | ICML 2024 | 2024.03 |
+| [AudioLDM 2: Learning Holistic Audio Generation with Self-supervised Pretraining](https://ieeexplore.ieee.org/document/10530074) | TASLP 2024 | 2024.05 |
+| [MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec Transformer](https://arxiv.org/abs/2409.00750) | ICLR 2025 | 2024.09 |
 
 ## 4. Discrete Token Prediction
 | Title | Publication | Date |
