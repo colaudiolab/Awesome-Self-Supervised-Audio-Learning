@@ -165,13 +165,16 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 ## 5. Teacher-Student Distillation and Unified Learning
 | Title | Publication | Date |
 | :--- | :--- | :--- |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
+| [Multi-task self-supervised learning for Robust Speech Recognition](https://arxiv.org/abs/2001.09239) | ICASSP 2020 | 2020.01 |
+| [Data2vec: A general framework for self-supervised learning in speech, vision and language](https://arxiv.org/abs/2202.03555) | ICML 2022 | 2022.02 |
+| [ATST: Audio Representation Learning with Teacher-Student Transformer](https://arxiv.org/abs/2204.12076) | Interspeech 2022 | 2022.04 |
+| [BYOL-S: Learning Self-supervised Speech Representations by Bootstrapping](https://arxiv.org/abs/2206.12038) | NeurIPS 2021 Competition | 2022.06 |
+| [EAT: Self-Supervised Pre-Training with Efficient Audio Transformer](https://arxiv.org/abs/2401.03497) | IJCAI 2024 | 2024.01 |
+| [DinoSR: Self-Distillation and Online Clustering for Self-supervised Speech Representation Learning](https://arxiv.org/abs/2305.10005) | NIPS 2023 | 2024.01 |
+| [HeAR -- Health Acoustic Representations](https://arxiv.org/abs/2403.02522) | arXiv 2024 | 2024.03 |
+| [SSLAM: Enhancing Self-Supervised Models with Audio Mixtures for Polyphonic Soundscapes](https://arxiv.org/abs/2506.12222) | ICLR 2025 | 2025.06 |
+| [ASDA: Audio Spectrogram Differential Attention Mechanism for Self-Supervised Representation Learning](https://arxiv.org/abs/2507.02666) | Interspeech 2025 | 2025.07 |
+| [JoVA: Unified Multimodal Learning for Joint Video-Audio Generation](https://arxiv.org/abs/2512.13677) | arXiv 2025 | 2025.12 |
 
 
 ## 6. Multimodal Alignment
