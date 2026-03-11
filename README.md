@@ -121,10 +121,17 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 ## 2. Contrastive Learning
 | Title | Publication | Date |
 | :--- | :--- | :--- |
-| [Contrastive Learning of General-Purpose Audio Representations](https://ieeexplore.ieee.org/document/9413528) | ICASSP 2021 | 2021.05 |
-| [BYOL for Audio: Self-Supervised Learning for General-Purpose Audio Representation](https://arxiv.org/abs/2103.06695) | IJCNN 2021 | 2021.03 |
-| [Audio Barlow Twins: Self-Supervised Audio Representation Learning](https://ieeexplore.ieee.org/document/10095041) | ICASSP 2023 | 2023.05 |
+| [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748) | arXiv 2018 | 2018.07 |
+| [wav2vec: Unsupervised Pre-training for Speech Recognition](https://arxiv.org/abs/1904.05862) | Interspeech 2019 | 2019.04 |
+| [vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations](https://arxiv.org/abs/1910.05453) | ICLR 2020 | 2019.10 |
+| [Contrastive Learning of General-Purpose Audio Representations](https://ieeexplore.ieee.org/document/9413528) | ICASSP 2021 | 2020.10 |
 | [wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations](https://arxiv.org/abs/2006.11477) | NeurIPS 2020 | 2020.10 |
+| [CLAR: Contrastive Learning of Auditory Representations](https://arxiv.org/abs/2010.09542) | AISTATS 2021 | 2020.10 |
+| [Speech SIMCLR: Combining Contrastive and Reconstruction Objective for Self-supervised Speech Representation Learning](https://arxiv.org/abs/2010.13991) | Interspeech 2021 | 2020.10 |
+| [BYOL for Audio: Self-Supervised Learning for General-Purpose Audio Representation](https://arxiv.org/abs/2103.06695) | IJCNN 2021 | 2021.03 |
+| [Contrastive Learning of Musical Representations](https://arxiv.org/abs/2103.09410) | ISMIR 2021 | 2021.03 |
+| [BYOL for Audio: Exploring Pre-trained General-purpose Audio Representations](https://arxiv.org/abs/2204.07402) | TASLP 2022 | 2022.04 |
+| [Audio Barlow Twins: Self-Supervised Audio Representation Learning](https://ieeexplore.ieee.org/document/10095041) | ICASSP 2023 | 2023.05 |
 
 ## 3. Generative and Reconstruction
 | Title | Publication | Date |
