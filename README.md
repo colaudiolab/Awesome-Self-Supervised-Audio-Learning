@@ -114,7 +114,7 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 | [Context Encoders: Feature Learning by Inpainting](https://ieeexplore.ieee.org/document/7780647) | CVPR 2016 | 2016.04 |
 | [A Context Encoder for Audio Inpainting](https://ieeexplore.ieee.org/document/8867915) | IEEE TASLP 2019 | 2019.10 |
 | [Audio Super Resolution Using Neural Networks](https://arxiv.org/abs/1708.00853) | ICLR 2017 Workshop | 2017.08 |
-| [A Novel Method of Artificial Bandwidth Extension Using Deep Architecture](extension://ngbkcglbmlglgldjfcnhaijeecaccgfi/https://www.isca-archive.org/interspeech_2015/liu15g_interspeech.pdf) | Interspeech 2015 | 2015.09 |
+| [A Novel Method of Artificial Bandwidth Extension Using Deep Architecture](https://www.researchgate.net/publication/354167437_A_novel_method_of_artificial_bandwidth_extension_using_deep_architecture) | Interspeech 2015 | 2015.09 |
 | [Look, Listen and Learn](https://arxiv.org/abs/1705.08168) | ICCV 2017 | 2017.05 |
 
 ## 2. Contrastive Learning
