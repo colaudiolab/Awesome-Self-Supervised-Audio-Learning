@@ -102,21 +102,19 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 ## 1. Early Auxiliary Tasks
 | Title | Publication | Date |
 | :--- | :--- | :--- |
-| [A survey on self-supervised learning: Algorithms, applications, and future trends](https://ieeexplore.ieee.org/document/10375916) | IEEE TPAMI 2024 | 2024.12 |
+| [A survey on self-supervised learning: Algorithms, applications, and future trends](https://arxiv.org/abs/2301.05712) | IEEE TPAMI 2024 | 2024.07 |
 | [Unsupervised Representation Learning by Predicting Image Rotations](https://arxiv.org/abs/1803.07728) | ICLR 2018 | 2018.03 |
-| [Pre-training audio representations with self-supervision (Audio2Vec)](https://arxiv.org/abs/2010.12715) | IEEE SPL 2020 | 2020.10 |
-| [Audio self-supervised learning: A survey](https://doi.org/10.1016/j.patter.2022.100616) | Patterns 2022 | 2022.12 |
-| [Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles](https://arxiv.org/abs/1603.09246) | ECCV 2016 | 2016.03 |
-| [Shuffle and Learn: Unsupervised Learning using Temporal Order Verification](https://arxiv.org/abs/1603.08511) | ECCV 2016 | 2016.03 |
-| [Self-supervised learning of audio representations from permutations with differentiable ranking](https://arxiv.org/abs/2107.03123) | IEEE SPL 2021 | 2021.07 |
-| [Learning Problem-agnostic Speech Representations from Multiple Self-supervised Tasks (PASE)](https://arxiv.org/abs/1904.03416) | Interspeech 2019 | 2019.04 |
-| [Multi-task self-supervised learning for robust speech recognition (PASE+)](https://arxiv.org/abs/2001.09239) | ICASSP 2020 | 2020.01 |
-| [Self-supervised speech representation learning: A review](https://doi.org/10.1109/JSTSP.2022.3168249) | IEEE JSTSP 2022 | 2022.04 |
-| [Context Encoders: Feature Learning by Inpainting](https://arxiv.org/abs/1604.07379) | CVPR 2016 | 2016.04 |
-| [A Context Encoder for Audio Inpainting](https://arxiv.org/abs/1910.09130) | IEEE TASLP 2019 | 2019.10 |
-| [Colorful Image Colorization](https://arxiv.org/abs/1603.08511) | ECCV 2016 | 2016.03 |
-| [Audio Super Resolution Using Neural Networks](https://arxiv.org/abs/1708.00853) | arXiv 2017 | 2017.08 |
-| [A novel method of artificial bandwidth extension using deep architecture](https://www.isca-speech.org/archive/interspeech_2015/liu15e_interspeech.html) | Interspeech 2015 | 2015.09 |
+| [Pre-Training Audio Representations With Self-Supervision](https://ieeexplore.ieee.org/document/9060816) | IEEE SPL 2020 | 2020.04 |
+| [Audio self-supervised learning: A survey](https://www.sciencedirect.com/science/article/pii/S2666389922002410) | Patterns 2022 | 2022.12 |
+| [Shuffle and Learn: Unsupervised Learning using Temporal Order Verification](https://arxiv.org/abs/1603.08561) | ECCV 2016 | 2016.03 |
+| [Self-Supervised Learning of Audio Representations from Permutations with Differentiable Ranking](https://ieeexplore.ieee.org/document/9382070) | IEEE SPL 2021 | 2021.03 |
+| [Learning Problem-agnostic Speech Representations from Multiple Self-supervised Tasks](https://arxiv.org/abs/1904.03416) | Interspeech 2019 | 2019.04 |
+| [Multi-task self-supervised learning for Robust Speech Recognition](https://arxiv.org/abs/2001.09239) | ICASSP 2020 | 2020.01 |
+| [Self-Supervised Speech Representation Learning: A Review](https://ui.adsabs.harvard.edu/abs/2022ISTSP..16.1179M/abstract) | IEEE JSTSP 2022 | 2022.10 |
+| [Context Encoders: Feature Learning by Inpainting](https://ieeexplore.ieee.org/document/7780647) | CVPR 2016 | 2016.04 |
+| [A Context Encoder for Audio Inpainting](https://ieeexplore.ieee.org/document/8867915) | IEEE TASLP 2019 | 2019.10 |
+| [Audio Super Resolution Using Neural Networks](https://arxiv.org/abs/1708.00853) | ICLR 2017 Workshop | 2017.08 |
+| [A Novel Method of Artificial Bandwidth Extension Using Deep Architecture](extension://ngbkcglbmlglgldjfcnhaijeecaccgfi/https://www.isca-archive.org/interspeech_2015/liu15g_interspeech.pdf) | Interspeech 2015 | 2015.09 |
 | [Look, Listen and Learn](https://arxiv.org/abs/1705.08168) | ICCV 2017 | 2017.05 |
 
 ## 2. Contrastive Learning
