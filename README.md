@@ -170,7 +170,7 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 | [ATST: Audio Representation Learning with Teacher-Student Transformer](https://arxiv.org/abs/2204.12076) | Interspeech 2022 | 2022.04 |
 | [BYOL-S: Learning Self-supervised Speech Representations by Bootstrapping](https://arxiv.org/abs/2206.12038) | NeurIPS 2021 Competition | 2022.06 |
 | [EAT: Self-Supervised Pre-Training with Efficient Audio Transformer](https://arxiv.org/abs/2401.03497) | IJCAI 2024 | 2024.01 |
-| [DinoSR: Self-Distillation and Online Clustering for Self-supervised Speech Representation Learning](https://arxiv.org/abs/2305.10005) | NIPS 2023 | 2024.01 |
+| [DinoSR: Self-Distillation and Online Clustering for Self-supervised Speech Representation Learning](https://arxiv.org/abs/2305.10005) | NeurIPS 2023 | 2024.01 |
 | [HeAR -- Health Acoustic Representations](https://arxiv.org/abs/2403.02522) | arXiv 2024 | 2024.03 |
 | [SSLAM: Enhancing Self-Supervised Models with Audio Mixtures for Polyphonic Soundscapes](https://arxiv.org/abs/2506.12222) | ICLR 2025 | 2025.06 |
 | [ASDA: Audio Spectrogram Differential Attention Mechanism for Self-Supervised Representation Learning](https://arxiv.org/abs/2507.02666) | Interspeech 2025 | 2025.07 |
@@ -181,14 +181,16 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 | Title | Publication | Date |
 | :--- | :--- | :--- |
 | [SoundNet: Learning Sound Representations from Unlabeled Video](https://arxiv.org/abs/1610.09001) | NeurIPS 2016 | 2016.10 |
-| [Robust Audio-Visual Instance Discrimination (Robust-xID)](https://arxiv.org/abs/2008.01258) | CVPR 2021 | 2020.08 |
-| [CLAP: Learning Audio Concepts From Natural Language Supervision](https://arxiv.org/abs/2206.04769) | ICASSP 2023 | 2022.06 |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
+| [Look, Listen and Learn](https://arxiv.org/abs/1705.08168) | ICCV 2017 | 2017.05 |
+| [Robust Audio-Visual Instance Discrimination](https://arxiv.org/abs/2103.15916) | CVPR 2021 | 2021.03 |
+| [Vatt: Transformers for multimodal self-supervised learning from raw video, audio and text](https://arxiv.org/abs/2104.11178) | NeurIPS 2021 | 2021.04 |
+| [AudioCLIP: Extending CLIP to Image, Text and Audio](https://arxiv.org/abs/2106.13043) | GCPR 2021 | 2021.06 |
+| [Learning Audio-Visual Speech Representation by Masked Multimodal Cluster Prediction](https://arxiv.org/abs/2201.02184) | ICLR 2022 | 2022.01 |
+| [Large-scale Contrastive Language-Audio Pretraining with Feature Fusion and Keyword-to-Caption Augmentation](https://arxiv.org/abs/2211.06687) | ICASSP 2023 | 2022.11 |
+| [Contrastive Audio-Visual Masked Autoencoder](https://arxiv.org/abs/2210.07839) | ICLR 2023 | 2023.04 |
+| [ImageBind: One Embedding Space To Bind Them All](https://arxiv.org/abs/2305.05665) | CVPR 2023 | 2023.05 |
+| [Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models](https://arxiv.org/abs/2311.07919) | arXiv 2023 | 2023.11 |
+| [SALMONN: Towards Generic Hearing Abilities for Large Language Models](https://arxiv.org/abs/2310.13289) | ICLR 2024 | 2024.04 |
 
 
 # Benchmarking, Datasets, and Evaluation Protocols
