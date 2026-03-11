@@ -121,10 +121,10 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 ## 2. Contrastive Learning
 | Title | Publication | Date |
 | :--- | :--- | :--- |
-| [COLA: Contrastive Learning of General-Purpose Audio Representations](https://arxiv.org/abs/2010.10915) | ICASSP 2021 | 2021.05 |
-| [BYOL-A: Self-Supervised Learning for General-Purpose Audio Representation](https://arxiv.org/abs/2103.04551) | IJCNN 2021 | 2021.03 |
-| [Audio Barlow Twins: Self-Supervised Audio Representation Learning](https://arxiv.org/abs/2209.15344) | ICASSP 2023 | 2023.09 |
-| [wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations](https://arxiv.org/abs/2006.11477) | NeurIPS 2020 | 2020.12 |
+| [Contrastive Learning of General-Purpose Audio Representations](https://ieeexplore.ieee.org/document/9413528) | ICASSP 2021 | 2021.05 |
+| [BYOL for Audio: Self-Supervised Learning for General-Purpose Audio Representation](https://arxiv.org/abs/2103.06695) | IJCNN 2021 | 2021.03 |
+| [Audio Barlow Twins: Self-Supervised Audio Representation Learning](https://ieeexplore.ieee.org/document/10095041) | ICASSP 2023 | 2023.05 |
+| [wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations](https://arxiv.org/abs/2006.11477) | NeurIPS 2020 | 2020.10 |
 
 ## 3. Generative and Reconstruction
 | Title | Publication | Date |
