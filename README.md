@@ -225,9 +225,9 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 ## 5. Audio-Text Multimodal SSL Benchmarks
 | Title | Publication | Date |
 | :--- | :--- | :--- |
-| [AudioCaps: Generating Captions for Audios in the Wild](https://arxiv.org/abs/1905.13448) | NAACL-HLT 2019 | 2019.05 |
+| [AudioCaps: Generating Captions for Audios in The Wild](https://aclanthology.org/N19-1011/) | NAACL-HLT 2019 | 2019.05 |
 | [Clotho: An Audio Captioning Dataset](https://arxiv.org/abs/1910.09387) | ICASSP 2020 | 2019.10 |
-| [WavCaps: A ChatGPT-Assisted Weakly-Labelled Audio Captioning Dataset](https://arxiv.org/abs/2303.17395) | arXiv 2023 | 2023.03 |
+| [WavCaps: A ChatGPT-Assisted Weakly-Labelled Audio Captioning Dataset for Audio-Language Multimodal Research](https://arxiv.org/abs/2303.17395) | IEEE TASLP 2024 | 2023.03 |
 
 ## 6. Audio-Visual / Audio-Video Multimodal SSL Benchmarks
 | Title | Publication | Date |
