@@ -209,6 +209,8 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 | [Libri-Light: A Benchmark for ASR with Limited or No Supervision](https://arxiv.org/abs/1912.07875) | ICASSP 2020 | 2019.12 |
 
 ## 3. Environmental and Non-speech Benchmarks
+| Title | Publication | Date |
+| :--- | :--- | :--- |
 | [Towards Learning a Universal Non-Semantic Representation of Speech](https://arxiv.org/abs/2002.12764) | Interspeech 2020 | 2020.02 |
 | [A decade of DCASE: Achievements, practices, evaluations and future challenges](https://arxiv.org/abs/2410.04951) | ICASSP 2025 | 2024.10 |
 
@@ -216,9 +218,9 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 ## 4. Universal Audio Representation Suites + Canonical General-Audio Benchmarks
 | Title | Publication | Date |
 | :--- | :--- | :--- |
-| [HEAR: Holistic Evaluation of Audio Representations](https://arxiv.org/abs/2203.03022) | NeurIPS 2021 Competition Track | 2022.03 |
 | [Audio Set: An ontology and human-labeled dataset for audio events](https://ieeexplore.ieee.org/document/7952261) | ICASSP 2017 | 2017.03 |
 | [FSD50K: An Open Dataset of Human-Labeled Sound Events](https://arxiv.org/abs/2010.00475) | IEEE TASLP 2021 | 2020.10 |
+| [HEAR: Holistic Evaluation of Audio Representations](https://arxiv.org/abs/2203.03022) | NeurIPS 2021 Competition Track | 2022.03 |
 
 ## 5. Audio-Text Multimodal SSL Benchmarks
 | Title | Publication | Date |
