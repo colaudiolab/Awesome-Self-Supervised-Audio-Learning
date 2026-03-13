@@ -236,7 +236,6 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 | [VGGSound: A Large-scale Audio-Visual Dataset](https://arxiv.org/abs/2004.14368) | ICASSP 2020 | 2020.04 |
 | [AVSBench: Object-level Audio-Visual Segmentation with Grounding](https://arxiv.org/abs/2208.03578) | CVPR 2023 | 2022.08 |
 | [AVQA: Learning to Answer Questions in Dynamic Audio-Visual Scenes](https://arxiv.org/abs/2204.04368) | CVPR 2022 | 2022.04 |
-| [AudioBench: A Universal Benchmark for Audio Large Language Models](https://arxiv.org/abs/2406.13110) | arXiv 2024 | 2024.06 |
 
 ## 7. Audio-Centered Multimodal Evaluation Suites
 | Title | Publication | Date |
