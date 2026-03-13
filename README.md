@@ -73,7 +73,7 @@ If you find this work helpful in your research, welcome to cite the paper and gi
     
     
     </details>
-- [Benchmarking and Datasets](#benchmarking-datasets)
+- [Benchmarking and Datasets](#benchmarking-and-datasets)
   - <details>
     <summary>Speech-oriented SSL Benchmark Suites</summary>
     
