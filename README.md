@@ -153,24 +153,24 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 | :--- | :--- | :--- |
 | [APC: An Unsupervised Autoregressive Model for Speech Representation Learning](https://arxiv.org/abs/1904.03240) | Interspeech 2019 | 2019.04 |
 | [Mockingjay: Unsupervised Speech Representation Learning with Deep Bidirectional Transformer Encoders](https://arxiv.org/abs/1910.12638) | ICASSP 2020 | 2020.02 | 
-| [Audio ALBERT: A Lite BERT for Self-supervised Learning of Audio Representation](https://arxiv.org/abs/2005.08575) | IEEE SLT Workshop 2021 | 2021.05 |
-| [TERA: Self-Supervised Learning of Transformer Encoder Representation for Speech](https://ieeexplore.ieee.org/document/9478264) | TASLP 2021 | 2021.07 |
+| [Audio ALBERT: A Lite BERT for Self-supervised Learning of Audio Representation](https://arxiv.org/abs/2005.08575) | IEEE SLT 2021 Workshop | 2021.05 |
+| [TERA: Self-Supervised Learning of Transformer Encoder Representation for Speech](https://ieeexplore.ieee.org/document/9478264) | IEEE TASLP 2021 | 2021.07 |
 | [SSAST: Self-Supervised Audio Spectrogram Transformer](https://arxiv.org/abs/2110.09784) | AAAI 2022 | 2022.02 |
 | [MAE-AST: Masked Autoencoding Audio Spectrogram Transformer](https://arxiv.org/abs/2203.16691) | Interspeech 2022 | 2022.03 |
 | [Masked Spectrogram Prediction For Self-Supervised Audio Pre-Training](https://arxiv.org/abs/2204.12768) | ICASSP 2023 | 2022.04 |
 | [Masked Autoencoders that Listen](https://arxiv.org/abs/2207.06405) | NeurIPS 2022 | 2022.07 |
 | [NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models](https://arxiv.org/abs/2403.03100) | ICML 2024 | 2024.03 |
-| [AudioLDM 2: Learning Holistic Audio Generation with Self-supervised Pretraining](https://ieeexplore.ieee.org/document/10530074) | TASLP 2024 | 2024.05 |
+| [AudioLDM 2: Learning Holistic Audio Generation with Self-supervised Pretraining](https://ieeexplore.ieee.org/document/10530074) | IEEE TASLP 2024 | 2024.05 |
 | [MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec Transformer](https://arxiv.org/abs/2409.00750) | ICLR 2025 | 2024.09 |
 
 ## 4. Discrete Token Prediction
 | Title | Publication | Date |
 | :--- | :--- | :--- |
-| [HuBERT: Self‐Supervised Speech Representation Learning by Masked Prediction of Hidden Units](https://arxiv.org/abs/2106.07447) | TASLP 2021 | 2021.06 |
+| [HuBERT: Self‐Supervised Speech Representation Learning by Masked Prediction of Hidden Units](https://arxiv.org/abs/2106.07447) | IEEE TASLP 2021 | 2021.06 |
 | [W2v-BERT: Combining Contrastive Learning and Masked Language Modeling for Self-Supervised Speech Pre-Training](https://arxiv.org/abs/2108.06209) | ASRU 2021 | 2021.08 |
 | [WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech Processing](https://arxiv.org/abs/2110.13900) | IEEE JSTSP 2022 | 2021.08 |
 | [Self-supervised Learning with Random-projection Quantizer for Speech Recognition](https://arxiv.org/abs/2202.01855) | ICML 2022 | 2022.02 |
-| [AudioLM: a Language Modeling Approach to Audio Generation](https://arxiv.org/abs/2209.03143) | TASLP 2023 | 2022.09 |
+| [AudioLM: a Language Modeling Approach to Audio Generation](https://arxiv.org/abs/2209.03143) | IEEE TASLP 2023 | 2022.09 |
 | [BEATs: Audio Pre-Training with Acoustic Tokenizers](https://arxiv.org/abs/2212.09058) | ICML 2023 | 2022.12 |
 | [Seed-TTS: A Family of High-Quality Versatile Speech Generation Models](https://arxiv.org/abs/2406.02430) | arXiv 2024 | 2024.06 |
 | [VALL-E 2: Neural Codec Language Models are Human Parity Zero-Shot Text to Speech Synthesizers](https://arxiv.org/abs/2406.05370) | arXiv 2024 | 2024.06 |
@@ -255,8 +255,8 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 ## 7. Audio-Centered Multimodal Evaluation Suites
 | Title | Publication | Date |
 | :--- | :--- | :--- |
-| []() |  |  |
-| []() |  |  |
+| [AudioBench: A Universal Benchmark for Audio Large Language Models](https://arxiv.org/abs/2406.16020) | NAACL 2025 | 2024.06 |
+| [AVROBUSTBENCH: Benchmarking the Robustness of Audio-Visual Recognition Models at Test-Time](https://arxiv.org/abs/2506.00358) | NeurIPS 2025 Datasets and Benchmarks Track | 2025.05 |
 
 # Star History
 
