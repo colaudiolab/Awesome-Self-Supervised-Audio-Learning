@@ -195,16 +195,23 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 
 # Benchmarking, Datasets, and Evaluation Protocols
 
-## 1. Speech-centric Benchmarks
+## 1. Speech-oriented SSL Benchmark Suites
 | Title | Publication | Date |
 | :--- | :--- | :--- |
 | [SUPERB: Speech processing Universal PERformance Benchmark](https://arxiv.org/abs/2105.01051) | Interspeech 2021 | 2021.05 |
 | [SUPERB-SG: Enhanced Speech processing Universal PERformance Benchmark for Semantic and Generative Capabilities](https://arxiv.org/abs/2203.06849) | ACL 2022 | 2022.03 |
 | [The Zero Resource Speech Benchmark 2021: Metrics and baselines for unsupervised spoken language modeling](https://arxiv.org/abs/2011.11588) | NeurIPS 2020 Workshop | 2020.11 |
 | [Task Agnostic and Task Specific Self-Supervised Learning from Speech with LeBenchmark.](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/b3e3e393c77e35a4a3f3cbd1e429b5dc-Abstract-round2.html) | NeurIPS 2021 Datasets and benchmarks | 2021.12 |
+
+## 2. Low-resource Speech Pretraining Benchmarks
+| Title | Publication | Date |
+| :--- | :--- | :--- |
 | [Libri-Light: A Benchmark for ASR with Limited or No Supervision](https://arxiv.org/abs/1912.07875) | ICASSP 2020 | 2019.12 |
 
-## 2. Environmental and General Audio
+## 3. Environmental and Non-speech Benchmarks
+
+
+## 4. Universal Audio Representation Suites + Canonical General-Audio Benchmarks
 | Title | Publication | Date |
 | :--- | :--- | :--- |
 | [HEAR 2021: Holistic Evaluation of Audio Representations](https://arxiv.org/abs/2203.03022) | PMLR 2022 | 2022.03 |
@@ -213,14 +220,14 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 | [DCASE 2017 Challenge Setup: Tasks, Datasets and Baseline System](https://arxiv.org/abs/1709.03159) | DCASE Workshop 2017 | 2017.09 |
 | [Towards Learning to Solve Non-Semantic Speech Tasks with Reviews](https://arxiv.org/abs/2002.01322) | Interspeech 2020 | 2020.02 |
 
-## 3. Audio-Language (Multimodal)
+## 5. Audio-Text Multimodal SSL Benchmarks
 | Title | Publication | Date |
 | :--- | :--- | :--- |
 | [AudioCaps: Generating Captions for Audios in the Wild](https://arxiv.org/abs/1905.13448) | NAACL-HLT 2019 | 2019.05 |
 | [Clotho: An Audio Captioning Dataset](https://arxiv.org/abs/1910.09387) | ICASSP 2020 | 2019.10 |
 | [WavCaps: A ChatGPT-Assisted Weakly-Labelled Audio Captioning Dataset](https://arxiv.org/abs/2303.17395) | arXiv 2023 | 2023.03 |
 
-## 4. Audio-Visual and Audio-LLM
+## 6. Audio-Visual / Audio-Video Multimodal SSL Benchmarks
 | Title | Publication | Date |
 | :--- | :--- | :--- |
 | [AVE: Audio-Visual Event Localization in Real-world Videos](https://arxiv.org/abs/1807.00439) | ECCV 2018 | 2018.07 |
@@ -228,6 +235,10 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 | [AVSBench: Object-level Audio-Visual Segmentation with Grounding](https://arxiv.org/abs/2208.03578) | CVPR 2023 | 2022.08 |
 | [AVQA: Learning to Answer Questions in Dynamic Audio-Visual Scenes](https://arxiv.org/abs/2204.04368) | CVPR 2022 | 2022.04 |
 | [AudioBench: A Universal Benchmark for Audio Large Language Models](https://arxiv.org/abs/2406.13110) | arXiv 2024 | 2024.06 |
+
+## 7. Audio-Centered Multimodal Evaluation Suites
+| Title | Publication | Date |
+| :--- | :--- | :--- |
 
 # Star History
 
