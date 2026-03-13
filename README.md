@@ -247,10 +247,10 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 ## 6. Audio-Visual / Audio-Video Multimodal SSL Benchmarks
 | Title | Publication | Date |
 | :--- | :--- | :--- |
-| [AVE: Audio-Visual Event Localization in Real-world Videos](https://arxiv.org/abs/1807.00439) | ECCV 2018 | 2018.07 |
+| [Audio-Visual Event Localization in Unconstrained Videos](https://arxiv.org/abs/1803.08842) | ECCV 2018 | 2018.03 |
 | [VGGSound: A Large-scale Audio-Visual Dataset](https://arxiv.org/abs/2004.14368) | ICASSP 2020 | 2020.04 |
-| [AVSBench: Object-level Audio-Visual Segmentation with Grounding](https://arxiv.org/abs/2208.03578) | CVPR 2023 | 2022.08 |
-| [AVQA: Learning to Answer Questions in Dynamic Audio-Visual Scenes](https://arxiv.org/abs/2204.04368) | CVPR 2022 | 2022.04 |
+| [AVSBench: A Pixel-level Audio−Visual Segmentation Benchmark](extension://ngbkcglbmlglgldjfcnhaijeecaccgfi/https://av4d.org/papers/eccv22/p10.pdf) | ECCV 2022 | 2022.07 |
+| [AVQA: A Dataset for Audio-Visual Question Answering on Videos](https://dl.acm.org/doi/abs/10.1145/3503161.3548291) | ACM MM 2022 | 2022.10 |
 
 ## 7. Audio-Centered Multimodal Evaluation Suites
 | Title | Publication | Date |
