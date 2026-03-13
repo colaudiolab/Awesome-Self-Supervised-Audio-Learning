@@ -199,17 +199,17 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 | Title | Publication | Date |
 | :--- | :--- | :--- |
 | [SUPERB: Speech processing Universal PERformance Benchmark](https://arxiv.org/abs/2105.01051) | Interspeech 2021 | 2021.05 |
-| [SUPERB-SG: Enhanced Speech processing Universal PERformance Benchmark](https://arxiv.org/abs/2203.04412) | Interspeech 2022 | 2022.03 |
-| [ZeroSpeech 2020: Investigating the Role of Discrete Units in Zero-resource Speech Synthesis](https://arxiv.org/abs/2010.11564) | Interspeech 2020 | 2020.10 |
-| [LeBenchmark: A Reproducible Framework for Assessing SSL from Speech](https://arxiv.org/abs/2104.09252) | Interspeech 2021 | 2021.04 |
-| [Libri-Light: A Benchmark for ASR with Limited Resources](https://arxiv.org/abs/1912.07875) | ICASSP 2020 | 2019.12 |
+| [SUPERB-SG: Enhanced Speech processing Universal PERformance Benchmark for Semantic and Generative Capabilities](https://arxiv.org/abs/2203.06849) | ACL 2022 | 2022.03 |
+| [The Zero Resource Speech Benchmark 2021: Metrics and baselines for unsupervised spoken language modeling](https://arxiv.org/abs/2011.11588) | NeurIPS 2020 Workshop | 2020.11 |
+| [Task Agnostic and Task Specific Self-Supervised Learning from Speech with LeBenchmark.](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/b3e3e393c77e35a4a3f3cbd1e429b5dc-Abstract-round2.html) | NeurIPS 2021 Datasets and benchmarks | 2021.12 |
+| [Libri-Light: A Benchmark for ASR with Limited or No Supervision](https://arxiv.org/abs/1912.07875) | ICASSP 2020 | 2019.12 |
 
 ## 2. Environmental and General Audio
 | Title | Publication | Date |
 | :--- | :--- | :--- |
 | [HEAR 2021: Holistic Evaluation of Audio Representations](https://arxiv.org/abs/2203.03022) | PMLR 2022 | 2022.03 |
 | [AudioSet: An ontology and dataset for ILSVRC-like labeled video events](https://ieeexplore.ieee.org/document/7952261) | ICASSP 2017 | 2017.03 |
-| [FSD50K: An Open Dataset of Everyday Sounds](https://arxiv.org/abs/2010.00475) | IEEE/ACM TASLP 2021 | 2020.10 |
+| [FSD50K: An Open Dataset of Everyday Sounds](https://arxiv.org/abs/2010.00475) | IEEE/ACM TASLP 2021 | 2020.11 |
 | [DCASE 2017 Challenge Setup: Tasks, Datasets and Baseline System](https://arxiv.org/abs/1709.03159) | DCASE Workshop 2017 | 2017.09 |
 | [Towards Learning to Solve Non-Semantic Speech Tasks with Reviews](https://arxiv.org/abs/2002.01322) | Interspeech 2020 | 2020.02 |
 
