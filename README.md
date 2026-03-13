@@ -73,24 +73,39 @@ If you find this work helpful in your research, welcome to cite the paper and gi
     
     
     </details>
-- [Benchmarking, Datasets, and Evaluation Protocols](#benchmarking-datasets-and-evaluation-protocols)
+- [Benchmarking and Datasets](#benchmarking-datasets)
   - <details>
-    <summary>Speech-centric Benchmarks</summary>
+    <summary>Speech-oriented SSL Benchmark Suites</summary>
     
     
     </details>
   - <details>
-    <summary>Environmental and General Audio</summary>
+    <summary>Low-resource Speech Pretraining Benchmarks</summary>
     
     
     </details>
   - <details>
-    <summary>Audio-Language (Multimodal)</summary>
+    <summary>Environmental and Non-speech Benchmarks</summary>
     
     
     </details>
   - <details>
-    <summary>Audio-Visual and Audio-LLM</summary>
+    <summary>Universal Audio Representation Suites + Canonical General-Audio Benchmarks</summary>
+    
+    
+    </details>
+  - <details>
+    <summary>Audio-Text Multimodal SSL Benchmarks</summary>
+    
+    
+    </details>
+  - <details>
+    <summary>Audio-Visual / Audio-Video Multimodal SSL Benchmarks</summary>
+    
+    
+    </details>
+  - <details>
+    <summary>Audio-Centered Multimodal Evaluation Suites</summary>
     
     
     </details>
@@ -193,7 +208,7 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 | [SALMONN: Towards Generic Hearing Abilities for Large Language Models](https://arxiv.org/abs/2310.13289) | ICLR 2024 | 2024.04 |
 
 
-# Benchmarking, Datasets, and Evaluation Protocols
+# Benchmarking and Datasets
 
 ## 1. Speech-oriented SSL Benchmark Suites
 | Title | Publication | Date |
