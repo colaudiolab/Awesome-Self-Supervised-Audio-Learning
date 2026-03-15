@@ -14,7 +14,7 @@
 
 The repository is based on our survey [A Systematic Review on Self-Supervised Learning for Audio Signal: Taxonomy, Applications and Future Trends](xxx) (Submit to TPAMI 2026).
 
-xxx, Kele Xu
+xxx, Yong Dou, Kele Xu
 
 National University of Defense Technology(NUDT)
 
