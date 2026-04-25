@@ -14,7 +14,7 @@
 
 The repository is based on our survey [From Objectives to Applications: Aligning Architectural Biases in Audio Self-Supervised Learning](xxx) (Submit to TASLP 2026).
 
-xxx, Yong Dou, Kele Xu
+xxx, Yong Dou, Kele Xu, Huaimin Wang
 
 National University of Defense Technology(NUDT)
 
@@ -30,7 +30,7 @@ Furthermore, we evaluate the impact of SSL across diverse domains, including nex
 
 📰 2026-xx-xx: Our survey paper has been uploaded to ArXiv.
 
-📰 2026-03-20: Our survey paper has been submitted to TPAMI 2026.
+📰 2026-03-20: Our survey paper has been submitted to TASLP 2026.
 
 
 ## 🔍 BibTeX
