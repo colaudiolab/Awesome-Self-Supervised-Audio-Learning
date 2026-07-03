@@ -12,9 +12,7 @@
 [![arXiv](media/arXiv-Paper-red.svg)](xxx) 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=colaudiolab.Awesome-Self-Supervised-Audio-Learning)](https://visitor-badge.laobi.icu/badge?page_id=colaudiolab.Awesome-Self-Supervised-Audio-Learning)
 
-The repository is based on our survey [From Objectives to Applications: Aligning Architectural Biases in Audio Self-Supervised Learning](xxx) (Submit to TASLP 2026).
-
-xxx, Yong Dou, Kele Xu, Huaimin Wang
+The repository is based on our survey [From Objectives to Applications: Aligning Architectural Biases in Audio Self-Supervised Learning](xxx)
 
 National University of Defense Technology(NUDT)
 
