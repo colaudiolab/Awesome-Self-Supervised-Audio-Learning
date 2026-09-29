@@ -12,7 +12,7 @@
 [![arXiv](media/arXiv-Paper-red.svg)](xxx) 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=colaudiolab.Awesome-Self-Supervised-Audio-Learning)](https://visitor-badge.laobi.icu/badge?page_id=colaudiolab.Awesome-Self-Supervised-Audio-Learning)
 
-The repository is based on our survey [From Objectives to Applications: Aligning Architectural Biases in Audio Self-Supervised Learning](xxx)
+The repository is based on our survey [From Objectives to Applications: Aligning Architectural Biases in Audio Self-Supervised Learning](https://arxiv.org/abs/2607.00387)
 
 National University of Defense Technology(NUDT)
 
@@ -25,7 +25,7 @@ This paper examines audio self-supervised learning (SSL) through the alignment b
 
 [//]: # (📰 2026-xx-xx: Our repository now features a curated list of representative self-supervised audio learning papers published up to Jan 1, 2026.)
 
-📰 2026-xx-xx: Our survey paper has been uploaded to ArXiv.
+📰 2026-07-01: Our survey paper has been uploaded to ArXiv.
 
 📰 2026-03-20: Our survey paper has been submitted to AIR Journal.
 
@@ -34,7 +34,12 @@ This paper examines audio self-supervised learning (SSL) through the alignment b
 If you find this work helpful in your research, welcome to cite the paper and give a ⭐.
 
 ```
-
+@article{xu2026objectives,
+  title={From Objectives to Applications: Aligning Architectural Biases in Audio Self-Supervised Learning},
+  author={Xu, Kele and Fang, Yulu and Zhou, Boda and Sun, Yulin and Xu, Qisheng and Song, Qiya and Zhang, Jin and Yang, Cheng and Wang, Huaimin},
+  journal={arXiv preprint arXiv:2607.00387},
+  year={2026}
+}
 ```
 
 
