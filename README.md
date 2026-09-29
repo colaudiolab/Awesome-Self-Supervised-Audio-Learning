@@ -28,7 +28,7 @@ Furthermore, we evaluate the impact of SSL across diverse domains, including nex
 
 📰 2026-xx-xx: Our survey paper has been uploaded to ArXiv.
 
-📰 2026-03-20: Our survey paper has been submitted to TASLP 2026.
+📰 2026-03-20: Our survey paper has been submitted to AIR Journal.
 
 
 ## 🔍 BibTeX
